@@ -6,6 +6,10 @@ nav {
     font-family: 'Pridi', serif;
   }
 
+  html, body {
+    min-width: 1122px;
+  }
+
   .container {
     position: relative;
     color: black;
